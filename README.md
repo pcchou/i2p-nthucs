@@ -1,1 +1,2 @@
-# 110-2 Introduction to Programming I, NTHU Dept. of CS
+# 110-2 Introduction to Programming I
+Introductory course in NTHU Dept. of CS
